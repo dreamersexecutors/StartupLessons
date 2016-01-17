@@ -19,4 +19,4 @@ Tech startup founders.
 ### Finance
 #### Problem: Lack of startup money
 Start around a service. Why? Because it gets you close to your customers and brings money to your doors. 
-Start talking to people, let them know you can help. Overdeliver like crazy. Make them say "wow". Start small and build from there. Believe. Source: [Evan Carmichael on Youtube](http://example.com/ "How can you start a business without money").
+Start talking to people, let them know you can help. Overdeliver like crazy. Make them say "wow". Start small and build from there. Believe. Source: [Evan Carmichael on Youtube](https://www.youtube.com/watch?v=ZtZGx8mWDY8"How can you start a business without money").
