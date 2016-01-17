@@ -13,10 +13,10 @@ Our goal is to compile tips on building a startup present them in the context of
 Tech startup founders. 
 
 # The Compilation
-## Growth stage: Pre-idea phase
-### Marketing
-## Growth stage: Idea phase
-### Finance
-#### Problem: Lack of startup money
+## 1. Growth stage: Pre-idea phase
+### 1.1.Marketing
+## 2. Growth stage: Idea phase
+### 2.1.Finance
+#### 2.1.1. Problem: Lack of startup money
 Start around a service. Why? Because it gets you close to your customers and brings money to your doors. 
 Start talking to people, let them know you can help. Overdeliver like crazy. Make them say "wow". Start small and build from there. Believe. Source: [Evan Carmichael on Youtube](https://www.youtube.com/watch?v=ZtZGx8mWDY8"How can you start a business without money").
